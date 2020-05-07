@@ -1,0 +1,37 @@
+#inputUser:hover{
+    -fx-focus-color:black;
+}
+.button:hover {
+    -fx-background-color: "9ABAAF";
+}
+#viewUserInfo{
+    -fx-background-color:"f2f2f2";
+    -fx-border-color:"879292";
+    -fx-border: 1px;
+    -fx-padding:5px;
+    -fx-font-family:"NanumBarunGothic";
+}
+#viewUserTier{
+-   fx-font-family:"NanumBarunGothic";
+    -fx-padding:5px;
+}
+#viewUserWinOrLose{
+    -fx-font-family:"NanumBarunGothic";
+    -fx-padding:5px;
+}
+#viewUserFreeTier{
+    -fx-font-family:"NanumBarunGothic";
+    -fx-padding:5px;
+}
+#totalRank{
+        -fx-font-family:"NanumBarunGothic";
+       -fx-background-color:"f2f2f2";
+           -fx-border-color:"879292";
+           -fx-border: 1px;
+}
+#totalMastery{
+-fx-font-family:"NanumBarunGothic";
+       -fx-background-color:"f2f2f2";
+           -fx-border-color:"879292";
+           -fx-border: 1px;
+}
